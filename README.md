@@ -41,6 +41,11 @@ calculator/
 
 Web Development Intern @ InternPe
 
+## 📸 Preview
+
+<img width="1672" height="1039" alt="image" src="https://github.com/user-attachments/assets/12c8ef88-971c-40b0-add8-3b1b55774589" />
+
+
 
 ## 🌐 Live Demo
 
